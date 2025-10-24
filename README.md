@@ -1,4 +1,4 @@
-# ✍️ Next Phrase / Word Predictor
+# ✍️ Intelligent Phrase Completion/Prediction
 
 ## Introduction
 This project focuses on developing a **Next Phrase / Word Prediction** model — a core capability behind modern text systems like **Google Autocomplete**, **keyboard autotype suggestions**, and **chatbots**.  
